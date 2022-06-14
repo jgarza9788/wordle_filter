@@ -1,6 +1,8 @@
 # Wordle_filter
 
-[youtube demo](https://youtu.be/OKkk6gY1B7Q)
+[▶ youtube demo](https://youtu.be/OKkk6gY1B7Q)  
+
+![🖼](./imgs/20220613.png)
 
 ## requirements
 1. python 3.0 or higher
